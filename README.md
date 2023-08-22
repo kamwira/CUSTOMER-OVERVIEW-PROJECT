@@ -4,6 +4,9 @@ This is a Power BI dashboard that show cases the customer segmentation for a ret
 **Introduction**
 The Customer Overview Power BI Dashboard is designed to provide a comprehensive view of customer data, enabling better understanding of various customer attributes and behavior patterns. With detailed visualizations, this dashboard helps businesses gain insights into customer demographics, purchase recency, and segmentation based on sex, age, age buckets, and family characteristics.
 
+**Files**
+The Raw Data is an excel file (XLSX), Attached is also Power Bi dashboard snapshot aploaded as a pdf and the Power bi version uploaded as a PBIX. 
+
 **Features**
 Education Distribution: Visualizes the number of customers categorized by their education level.
 
